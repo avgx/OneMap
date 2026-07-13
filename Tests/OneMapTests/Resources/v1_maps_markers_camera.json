@@ -1,0 +1,63 @@
+{
+  "markers": {
+    "hosts/Node-Example/DeviceIpint.2/SourceEndpoint.video:0:0": {
+      "position": {
+        "x": 0.11333663016557693,
+        "y": -0.31597527861595154
+      },
+      "component_name": "hosts/Node-Example/DeviceIpint.2/SourceEndpoint.video:0:0",
+      "display_title": false,
+      "component_domain": "",
+      "position_3d": {
+        "x": 2.9014177994883972,
+        "y": -5.3478813547621655,
+        "z": 0
+      },
+      "camera_marker": {
+        "field_of_view": {
+          "angle": 60.000001669652114,
+          "direction": {
+            "x": -3.6950361728668213,
+            "y": -6.126399040222168
+          }
+        },
+        "immersion": {
+          "has_zoom": false,
+          "zoom": 0,
+          "links": []
+        },
+        "video_on": false
+      }
+    },
+    "hosts/Node-Example/DeviceIpint.1/SourceEndpoint.video:0:0": {
+      "position": {
+        "x": -0.481232613325119,
+        "y": -0.43494111299514771
+      },
+      "component_name": "hosts/Node-Example/DeviceIpint.1/SourceEndpoint.video:0:0",
+      "display_title": false,
+      "component_domain": "",
+      "position_3d": {
+        "x": -12.319555041190286,
+        "y": -7.36137821781935,
+        "z": 0
+      },
+      "camera_marker": {
+        "field_of_view": {
+          "angle": 60.000001669652114,
+          "direction": {
+            "x": 5.5163121223449707,
+            "y": -1.6224417686462402
+          }
+        },
+        "immersion": {
+          "has_zoom": false,
+          "zoom": 0,
+          "links": []
+        },
+        "video_on": false
+      }
+    }
+  },
+  "collapsed_markers": []
+}

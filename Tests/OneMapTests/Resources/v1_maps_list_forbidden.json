@@ -1,0 +1,4 @@
+{
+  "errorMessage": "Insufficient privileges to get maps list",
+  "grpcErrorCode": 7
+}

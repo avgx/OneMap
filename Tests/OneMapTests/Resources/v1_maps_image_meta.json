@@ -1,0 +1,16 @@
+{
+  "image": {
+    "meta": {
+      "file_name": "floor-plan.jpg",
+      "mime_type": "JPG",
+      "size": {
+        "height": 677,
+        "width": 1024
+      },
+      "name": "33333333-3333-3333-3333-333333333333",
+      "size_bytes": 126324
+    },
+    "data": "/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAABAAEDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAn/xAAUEAEAAAAAAAAAAAAAAAAAAAAA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAX/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCwAA8A/9k=",
+    "etag": "9191900.9191900.0.0"
+  }
+}

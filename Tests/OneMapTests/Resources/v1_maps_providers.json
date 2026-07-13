@@ -1,0 +1,28 @@
+{
+  "map_providers": [
+    {
+      "id": "D7287DA0-A7FF-405F-8166-B6BAF26D066C",
+      "name": "Google Maps",
+      "api_key": "example-api-key",
+      "copyright": "Map data © Example",
+      "map_types": {
+        "D7287DA0-A7FF-405F-8166-B6BAF26D066C": {
+          "name": "roadmap",
+          "enabled": true,
+          "min_zoom": 0,
+          "max_zoom": 22,
+          "default_zoom": 10,
+          "default_center": {
+            "x": 0,
+            "y": 0
+          },
+          "custom_data": {
+            "tile_url": "https://example.com/tiles/{z}/{x}/{y}"
+          }
+        }
+      },
+      "etag": "1.0.0"
+    }
+  ],
+  "next_page_token": ""
+}
